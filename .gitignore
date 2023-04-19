@@ -1,0 +1,15 @@
+# python cache
+__pycache__/
+
+# virtual env
+venv/
+env/
+
+# ssh
+.ssh/
+source/
+stock/
+# .DS Store for mac
+.DS_Store
+
+videotest
